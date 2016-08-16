@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 # Ruby on Railsチュートリアル: サンプルアプリケーション
@@ -34,3 +35,6 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+# sample_app
+>>>>>>> b465e2d1bb2839f6657c0651bc1a4eda905296d6
